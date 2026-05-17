@@ -19,3 +19,7 @@ Configure the settings as appropriate for your site.
 * Its important to save the settings even if you accept all the defaults.
 
 * This Github project was automatically migrated from Google Code https://code.google.com/p/elggxuserpoints/
+
+## Contributing
+
+Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
